@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Association of Indian Physics Students
 
-You can use the [editor on GitHub](https://github.com/sargupta/sargupta.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Who are we?
+We are a young group of Physics enthusiasts, seeking to represent India on various global Physics platforms. We are volunteers of the community working specifically with the motive to form a world-class apolitical Indian Physics students’ organisation to nurture the young Physics minds by providing them the right environment and global network of like-minded people. At present, we have two Local Committees (LCs) under International Association of Physics Students (IAPS) that are collaborating with the international Physics community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Our Mission
+We are working hand-on-hand with International Association of Physics Students (IAPS) to form the Physics student communities in India with the goal of establishing Association of Indian Physics Students (AIPS) which will represent India in both national and international platforms.
+One of our core goals is also to make people aware implicitly or explicitly  about science, especially Physics and work towards developing a scientific Indian society. 
 
-### Markdown
+## Vision
+Single platform for all Indian Physics enthusiasts with pan India collaborative physics activities and Indian representation in International platforms. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sargupta/sargupta.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Benefits of Joining
+### Empower Indian Physics students by:
+- Providing them the platform to connect with the international Physics students’ community.
+- To encourage them in participation of various international activities organised by IAPS and its partners.
+- Networking opportunity with both National and International like minded physics students.
+- Encouraging students by allowing them to publish their topic specific articles on our website (under development).
+- Bringing Physics community closer together through our social media channels and activities.
